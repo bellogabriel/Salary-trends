@@ -13,9 +13,22 @@ This project examines how factors such as experience level, employment type, and
 
 ---
 
-## 📂 Folder Structure
+## 📂 File Uploaded
 - Problem statement
 - Notebook file
 - Downloadable final analysis
 - Charts
+- Dataset in CSV format
+
+---
+
+## 🧾	Data Source
+- Altschool Africa Learning team
+
+---
+
+## Tools & technologies
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
 
