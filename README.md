@@ -16,7 +16,6 @@ This project examines how factors such as experience level, employment type, and
 ## 📂 File Uploaded
 - Problem statement
 - Notebook file
-- Downloadable final analysis
 - Charts
 - Dataset in CSV format
 
